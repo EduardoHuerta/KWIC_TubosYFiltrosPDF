@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KWIC_PipesAndFilters">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../KWIC_PipesAndFilters/out/artifacts/KWIC_PipesAndFilters_jar/KWIC_PipesAndFilters.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
